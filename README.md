@@ -11,14 +11,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a> <img alt="python" title="python" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> </a> &ensp;
-  <a> <img alt="flask" title="flask" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" /> </a> &ensp;
-  <a> <img alt="git" title="git" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> &ensp;
-  <a> <img alt="github" title="github" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> &ensp;
-  <a> <img alt="mysql" title="mysql" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> </a> &ensp;
-  <a> <img alt="amazonwebservices" title="amazonwebservices" width="60px" height="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> </a> &ensp;
-  <a> <img alt="gcp" title="gcp" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </a> &ensp;
-  <a> <img alt="docker" title="docker" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /> </a> &ensp;
+  <a> <img alt="Python" title="Python" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> </a> &ensp;
+  <a> <img alt="AmazonWebServices" title="AmazonWebServices" width="60px" height="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> </a> &ensp;
+  <a> <img alt="Docker" title="Docker" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /> </a> &ensp;
+  <a> <img alt="GCP" title="GCP" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </a> &ensp;
+  <a> <img alt="Django" title="Django" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </a> &ensp;
+  <a> <img alt="Flask" title="Flask" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" /> </a> &ensp;
+  <a> <img alt="PostgreSQL" title="PostgreSQL" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" /> </a> &ensp;
+  <a> <img alt="ElasticSearch" title="ElasticSearch" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" /> </a> &ensp;
+  <a> <img alt="AWSLambda" title="AWSLambda" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg" /> </a> &ensp;
+    <a> <img alt="Git" title="Git" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> &ensp;
+    <a> <img alt="Github" title="Github" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> &ensp;
 </p>
 
 <hr>

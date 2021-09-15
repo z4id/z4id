@@ -25,6 +25,3 @@
 </p>
 
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=z4id&count_private=true&show_icons=true&include_all_commits=true" alt="z4id" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4id&count_private=true&layout=compact&langs_count=7&hide=css" alt="z4id" /></p>

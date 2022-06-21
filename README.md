@@ -12,7 +12,7 @@
 <p align="left"> 
   <a> <img alt="Python" title="Python" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> </a> &ensp;
   <a> <img alt="Amazon Web Services" title="Amazon Web Services" width="60px" height="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> </a> &ensp;
-    <a> <img alt="Kubernetes" title="Kubernetes" width="30px" height="30px" src="[https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)" /> </a> &ensp;
+    <a> <img alt="Kubernetes" title="Kubernetes" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> </a> &ensp;
   <a> <img alt="Docker" title="Docker" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /> </a> &ensp;
   <a> <img alt="Google Cloud Platform" title="Google Cloud Platform" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </a> &ensp;
   <a> <img alt="Django" title="Django" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </a> &ensp;

@@ -1,11 +1,11 @@
-<h1 align="left">Hi, I'm Zaid</h1>
-<p align="left">Senior Software Developer @ Emumba. My experties are core Python, AWS Solutions Arhitecture, microservices and RESTful APIs. Feel free to go through my repositories.</p>
+<h1 align="left">Hi, I'm Zaid :wave:</h1>
+<p align="left">Senior Software Engineer @ EMumba. 
+My experties are core Python, AWS Solutions Arhitecture, microservices and RESTful APIs. Feel free to go through my repositories.</p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/zaid-afzal" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Zaid's LinkedIn - @zaid-afzal" /></a> &ensp;  
-<a href="https://medium.com/@zaidx" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Zaid's Medium - @zaidx" /></a> &ensp;  
-<a href="mailto:zaidafzal@protonmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Zaid's Email - zaidafzal@protonmail.com" /></a> &ensp; 
+<a href="https://zaidx.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Zaid's Medium Articles" /></a> &ensp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

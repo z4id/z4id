@@ -12,13 +12,10 @@ My experties are core Python, AWS Solutions Arhitecture, microservices and RESTf
 <p align="left"> 
   <a> <img alt="Python" title="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> </a> &ensp;
   <a> <img alt="Amazon Web Services" title="Amazon Web Services" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> </a> &ensp;
-    <a> <img alt="Kubernetes" title="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> </a> &ensp;
+    <a> <img alt="Go" title="Go" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" /> </a> &ensp;
   <a> <img alt="Docker" title="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /> </a> &ensp;
-  <a> <img alt="Google Cloud Platform" title="Google Cloud Platform" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </a> &ensp;
   <a> <img alt="Django" title="Django" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" /> </a> &ensp;
-  <a> <img alt="Flask" title="Flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" /> </a> &ensp;
   <a> <img alt="PostgreSQL" title="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" /> </a> &ensp;
-  <a> <img alt="ElasticSearch" title="ElasticSearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" /> </a> &ensp;
 </p>
 
 <hr>
